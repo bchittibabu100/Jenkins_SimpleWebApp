@@ -10,7 +10,7 @@ public static Connection getMySQLConnection()
         throws ClassNotFoundException, SQLException {
   
     // Note: Change the connection parameters accordingly.
-    String hostName = "35.154.134.187";
+    String hostName = "35.154.124.48";
     String dbName = "mytest";
     String userName = "root";
     String password = "redhat";
